@@ -1,0 +1,1 @@
+git remote add origin git@github.com:BadNews87/gitExercises.git
