@@ -1,2 +1,2 @@
 git remote add origin git@github.com:BadNews87/gitExercises.git
-ram pam pam
+ram pam pam popek tańczy z gwiazdami
